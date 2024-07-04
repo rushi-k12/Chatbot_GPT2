@@ -4,13 +4,18 @@ This project implements a chatbot using the GPT-2 model for generating responses
 ## Overview
 The chatbot is built using the following components:
 
-## GPT-2 Model: A pre-trained language model from Hugging Face Transformers library.
-## FastAPI: A Python framework for building APIs quickly and easily.
-## Streamlit: A Python library for building interactive web apps.
+## GPT-2 Model: 
+A pre-trained language model from Hugging Face Transformers library.
+## FastAPI: 
+A Python framework for building APIs quickly and easily.
+## Streamlit: 
+A Python library for building interactive web apps.
 ## Features
 Generation of Text: Given an input prompt, the chatbot generates text based on the GPT-2 model.
-## API Endpoint: Provides a RESTful API endpoint /generate/ to interact with the chatbot.
-## Web Interface: Uses Streamlit for a user-friendly web interface to interact with the chatbot.
+## API Endpoint: 
+Provides a RESTful API endpoint /generate/ to interact with the chatbot.
+## Web Interface: 
+Uses Streamlit for a user-friendly web interface to interact with the chatbot.
 ## Installation
 Clone the repository:
 
