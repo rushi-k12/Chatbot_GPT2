@@ -28,6 +28,9 @@ Install dependencies:
 bash
 Copy code
 pip install -r requirements.txt
+
+## Deployment Link:
+https://huggingface.co/spaces/rushi-k/app_11
 ## Usage
 Running the API
 bash
